@@ -1,0 +1,89 @@
+{   
+        "id": 1,
+        "nome": "The Legend of Zelda",
+        "preco": 499.90,
+        "promocao": 319.90,
+        "descricao": "Esqueça tudo que você sabia sobre os jogos The Legend of Zelda. Entre em um mundo de descoberta, exploração e aventura em The Legend of Zelda: Breath of the Wild, um novo jogo desta aclamada série que está quebrando barreiras.",
+        "imagem": "https://cdn.sistemawbuy.com.br/arquivos/cf7e29a341643e1c477691d5e6b1746d/produtos/FOU9CIO1/115-5fc155a419c1a-5fedc0789318f-620422576eab9_mini.jpg"
+}
+
+{   
+        "id": 2,
+        "nome": "Boneco Funko Pop! Harry Potter",
+        "preco": 129.90,
+        "promocao": 99.90,
+        "descricao": "Boneco colecionável do personagem Harry Potter, da famosa série de livros e filmes",
+        "imagem": "https://m.media-amazon.com/images/I/61BH6wDYZuL._AC_SL1500_.jpg"
+}
+
+{   
+        "id": 3,
+        "nome": "Mousepad gamer",
+        "preco": 69.90,
+        "promocao": 49.90,
+        "descricao": "Mousepad grande e confortável para gamers, com superfície otimizada para precisão e velocidade",
+        "imagem": "https://images-americanas.b2w.io/produtos/2019047888/imagens/mousepad-gamer-personalizado-mortal-kombat-kitana/2019047888_1_large.jpg"
+}
+
+{   
+        "id": 4,
+        "nome": "Cubo mágico Rubik's",
+        "preco": 39.90,
+        "promocao": 24.90,
+        "descricao": "Jogo de quebra-cabeça com um cubo que deve ser resolvido movendo suas peças",
+        "imagem": "https://d2m78g3cfije3s.cloudfront.net/Custom/Content/Products/37/22/3722_cubo-magico-rubiks-com-suporte-000991_l1_637438000460074743.jpg"
+}
+
+{   
+        "id": 5,
+        "nome": "Caneca Star Wars",
+        "preco": 29.90,
+        "promocao": 19.90,
+        "descricao": "Caneca com estampa dos personagens da saga Star Wars",
+        "imagem": "https://img.elo7.com.br/product/original/14A357C/caneca-personalizada-star-wars-personage-starwars.jpg"
+}
+
+{   
+        "id": 6,
+        "nome": "Teclado gamer mecânico",
+        "preco": 349.90,
+        "promocao": 299.90,
+        "descricao": "Teclado mecânico de alta performance para gamers, com teclas programáveis e iluminação RGB",
+        "imagem": "https://cdn.leroymerlin.com.br/products/teclado_gamer_mecanico_spectrum_led_switch_blue_abnt2_oex_tc6_1567087849_f7fb_600x600.jpg"
+}
+
+{  
+        "id": 7,
+        "nome": "Livro O Senhor dos Anéis",
+        "preco": 99.90,
+        "promocao": 79.90,
+        "descricao": "Livro clássico de fantasia épica de J.R.R. Tolkien",
+        "imagem": "https://m.media-amazon.com/images/I/615wYSMrEPL.jpg"
+}
+
+{   
+        "id": 8,
+        "nome": "Miniatura Millennium Falcon",
+        "preco": 149.90,
+        "promocao": 99.90,
+        "descricao": "Miniatura detalhada da icônica nave Millennium Falcon de Star Wars",
+        "imagem": "https://images-americanas.b2w.io/produtos/01/00/sku/10520/1/10520192_1GG.jpg"
+}
+
+{   
+        "id": 9,
+        "nome": "Headset gamer",
+        "preco": 299.90,
+        "promocao": 249.90,
+        "descricao": "Headset para gamers com som de alta qualidade, microfone retrátil e iluminação RGB",
+        "imagem": "https://static3.tcdn.com.br/img/img_prod/670412/fone_de_ouvido_headset_gamer_havit_h2001d_led_usb_p2_3_5mm_azul_3761_1_eca024e07f8f494f7683bde84970a8df.jpg"
+}
+
+    {   
+        "id": 10,
+        "nome": "Pôster The Avengers",
+        "preco": 29.90,
+        "promocao": 14.90,
+        "descricao": "Pôster com os heróis do filme The Avengers",
+        "imagem": "https://img.elo7.com.br/product/original/234EDD1/quadro-poster-filme-avengers-poster-digital.jpg"
+    }

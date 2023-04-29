@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GEEK STORE</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    <script src="{{url_for('static', filename='js/bootstrap.bundle.min.js')}}"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg navba-light bg-light">
+            <img src="   https://cdn-icons-png.flaticon.com/512/4011/4011539.png " style="width: 30px; margin-right: 5px;">
+            <a class="navbar-brand" href="{{ url_for('home') }}">GEEK STORE</a>
+            <!--<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"></button>
+            <span class="navbar-toggler-icon"></span>-->
+        </nav>
+    </div>
+    <div class="container">
+        {% block content%}{% endblock %}
+    </div>
+</body>
+</html>
