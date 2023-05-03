@@ -6,4 +6,6 @@ A linguagem de programação utilizada foi o Python juntamente com o framework F
 
 Para os templates, foram utilizadas as linguagens HTML, CSS, Javascript e o framework Bootstrap(para estilização).
 
+Teste git/github
 E por fim, para o banco de dados foi utilizado o SQLite3.
+
